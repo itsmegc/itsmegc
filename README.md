@@ -16,11 +16,11 @@
   </p>
   <!-- About Section -->
   <ul>
-    <li>🔭 I’m currently working on <strong>Full Stack (MERN), Next.js & React Native Expo</strong></li>
-    <li>🌱 I’m currently learning <strong>Nest.js & React Native Expo</strong></li>
-    <li>💬 Ask me about <strong>MERN, Next.js, React Native Expo</strong></li>
+    <li>🔭 I’m currently working on <strong>Full Stack (MERN), Next.js, React Native, and Expo</strong></li>
+    <li>🌱 I’m currently learning <strong>Nest.js and React Native with Expo</strong></li>
+    <li>💬 Ask me about <strong>MERN, Next.js, React Native, and Expo</strong></li>
     <li>📫 How to reach me: <strong>gc.27@outlook.com</strong></li>
-  </ul>
+  </ul
 
   <!-- Languages and Tools Section -->
   <h2>🚀 Languages and tools I use</h2>
