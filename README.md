@@ -27,7 +27,7 @@
 {
   "identity": {
     "alias":     "itsmegc",
-    "role":      "Full Stack · Mobile · Automation Engineer",
+    "role":      "Full Stack · Mobile",
     "based":     "Australia 🇦🇺",
     "timezone":  "AEST → IST · async friendly"
   },
