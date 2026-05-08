@@ -1,99 +1,200 @@
-<!-- Main container -->
-<div >
-  <!-- Introductory Image -->
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+````md
+<!-- HERO SECTION -->
 
-  <!-- Heading -->
-  <h1 align="center">Hi 👋,  I'm Gaurav Chand</h1>
+<div align="center">
 
-  <!-- Typing effect text (centered properly) -->
-  <p align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0077B5&width=600&lines=Passionate+Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> 
-  </p>
-    <!-- Profile Views Counter -->
-  <p> 
-    <img src="https://komarev.com/ghpvc/?username=itsmegc&label=Profile%20views&color=0e75b6&style=flat" alt="itsmegc" /> 
-  </p>
-  <!-- About Section -->
-  <ul>
-    <li>🔭 I’m currently working on <strong>Full Stack (MERN), Next.js, React Native, and Expo</strong></li>
-    <li>🌱 I’m currently learning <strong>Nest.js and React Native with Expo</strong></li>
-    <li>💬 Ask me about <strong>MERN, Next.js, React Native, and Expo</strong></li>
-    <li>📫 How to reach me: <strong>gc.27@outlook.com</strong></li>
-  </ul
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:312E81,50:7C3AED,75:06B6D4,100:111827&text=GAURAV%20CHAND&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-  <!-- Languages and Tools Section -->
-  <h2>🚀 Languages and tools I use</h2>
-  <p>
-    <!-- Add the images of the tools -->
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-    <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-    <a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-    <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-    <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-    <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-    <a href="https://graphql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-    <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="42" height="42" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-  </p>
+<br/>
 
-  <!-- Contact Section with Outlook logo fixed -->
-  <h2>⚡️ Where to find me</h2>
-  <div>
-    <a href="https://www.linkedin.com/in/gaurav-chand-862864165" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="mailto:gc.27@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />
-    </a>
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Modern+Web+%26+Mobile+Experiences;React+Native+%E2%80%A2+Next.js+%E2%80%A2+AI+Systems;Automation+Pipelines+%E2%80%A2+Scalable+Backends;Shipping+real+products+faster+than+ever." />
 
-  <!-- GitHub Stats Section -->
-  <h2>📊 GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsmegc&show_icons=true&locale=en" alt="itsmegc" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmegc&" alt="itsmegc" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmegc&show_icons=true&locale=en&layout=compact" alt="itsmegc" />
-  </p>
+<br/><br/>
 
-  <!-- Trophy Section -->
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=itsmegc" alt="itsmegc" />
-    </a>
-  </p>
+<img src="https://komarev.com/ghpvc/?username=itsmegc&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
-  <!-- Additional Statistics Section -->
-  <h3 align="center">Statistics</h3>
-  <div align="center">
-    <a href="https://github.com/itsmegc">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmegc&theme=2077" height="180em" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmegc&theme=2077" height="180em" />
-    </a>
-  </div>
+&nbsp;
 
-  <!-- Activity Graph Section -->
-  <h2 align="left">⚡Activity Graph:</h2>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmegc&theme=github" />
+<a href="https://github.com/itsmegc">
+<img src="https://img.shields.io/github/followers/itsmegc?style=for-the-badge&color=06B6D4&labelColor=111827&logo=github&label=FOLLOWERS"/>
+</a>
+
 </div>
+
+---
+
+# ⚡ About Me
+
+```ts
+const gaurav = {
+  role: "Full Stack & Mobile Engineer",
+
+  currentlyWorkingOn: [
+    "AI Automation Systems",
+    "React Native Apps",
+    "Scalable Full Stack Platforms",
+  ],
+
+  learning: [
+    "Advanced NestJS",
+    "AI Agents",
+    "System Design",
+  ],
+
+  askMeAbout: [
+    "Next.js",
+    "React Native",
+    "Expo",
+    "GraphQL",
+    "Automation",
+  ],
+
+  funFact:
+    "I automate everything that wastes time.",
+};
+````
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,nodejs,nestjs,ts,js,graphql,express,mongodb,postgres,firebase,supabase,tailwind,docker,git,github,azure,figma,postman&perline=7" />
+
+</div>
+
+---
+
+# 🌌 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐾 Raksham
+
+Animal rescue + ecommerce ecosystem.
+
+* React Native
+* Stripe Payments
+* Rescue workflows
+* Admin automation
+
+</td>
+
+<td width="50%">
+
+### ✈️ Yatrik
+
+Modern travel platform.
+
+* Next.js
+* Dynamic APIs
+* Booking system
+* Scalable architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 CMA Automation
+
+Business workflow automation.
+
+* n8n
+* AI pipelines
+* Reporting systems
+* Payment automation
+
+</td>
+
+<td width="50%">
+
+### 🌍 Dagadi Tourism
+
+Tourism startup ecosystem.
+
+* Full Stack Platform
+* Mobile-first UI
+* Cloud backend systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmegc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmegc&theme=transparent&hide_border=true&stroke=A855F7&ring=06B6D4&fire=A855F7&currStreakLabel=FFFFFF"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmegc&bg_color=0d1117&color=A855F7&line=06B6D4&point=FFFFFF&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsmegc&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/gaurav-chand-862864165">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:gc.27@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/itsmegc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Philosophy
+
+> Build fast.
+> Learn constantly.
+> Automate relentlessly.
+> Create futuristic experiences.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:111827,50:7C3AED,100:06B6D4"/>
+
+```
+```
